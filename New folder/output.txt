@@ -1,0 +1,3 @@
+To see output open given link in your browser:
+
+https://mhashimraza.github.io/Assignment-IPT/
